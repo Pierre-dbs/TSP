@@ -1,0 +1,24 @@
+.jumbotron {
+  height: 630px;
+  background: url("img/surfeur1.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+
+ .card-deck {
+     margin-top: 80px;
+     margin-bottom: 80px;
+     margin: 80px;
+ }
+
+.card {
+    border: none;
+    align-content: center;
+    text-align: center;
+}
+
+.row {
+	margin-top: 60px;
+}
